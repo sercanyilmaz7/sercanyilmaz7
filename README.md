@@ -74,8 +74,9 @@
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
 [React - Bootstrap](https://react-project-movie-app-bootstrap.netlify.app/) <h3>[Repo](https://react-project-movie-app-bootstrap.netlify.app/)</h3> | React - Bootstrap - Router - Firebase - Context - Pagination |<img src="https://media.giphy.com/media/n1P8giTvphrEyY1qOI/giphy.gif" align="right" width="500">
-[HTML-CSS-JavaScript](https://cakir010.github.io/Piano-Project/) <h3>[Repo](https://cakir010.github.io/Piano-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE3OTk3MDJjYjgyYzJiNjRkZDFkNjg5Y2RjZGE3MzZiZDhlZjRmNCZjdD1n/J7M13Sg7Yr80HAk971/giphy.gif" align="right" width="500">
+[React - State - Hook -  Router - DarkTheme](https://cakir010.github.io/Piano-Project/) <h3>[Repo](https://cakir010.github.io/Piano-Project/)</h3> | React - State - Hook -  Router - DarkTheme |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE3OTk3MDJjYjgyYzJiNjRkZDFkNjg5Y2RjZGE3MzZiZDhlZjRmNCZjdD1n/J7M13Sg7Yr80HAk971/giphy.gif" align="right" width="500">
 [React - Tailwind](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
+[React - State - Hook](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - State - Hook |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwNmQ0MjY1MDkwOTg1MWE4MTAwNzZjMmRlZmFhYmY3MGM5Yjk0ZiZjdD1n/3FPtOfbd7ZSbTAZkfi/giphy.gif" align="right" width="500">
 
 
 
