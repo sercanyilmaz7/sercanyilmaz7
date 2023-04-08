@@ -7,7 +7,7 @@
 </br>
 <font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
-<font color="pink"> 🧐  </font>
+<font color="pink"> 🧐  I'm Focus on Typescript nowadays </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
