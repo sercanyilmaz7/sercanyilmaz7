@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+</br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Sercan YILMAZ
 
