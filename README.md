@@ -100,10 +100,6 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 
 
 
-<br>
-<img src="https://github-profile-trophy.vercel.app/?sercanyilmaz7={sercanyilmaz7}"
-     alt=""
-     />
 
 <br>
 
